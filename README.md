@@ -7,9 +7,6 @@ This project is a parking space detection system that dynamically identifies fre
 - Highlights vacant spaces with **green** rectangles and occupied spaces with **red** rectangles.
 - Displays the count of available parking spaces on the video frame.
 
-## Demo
-Insert your output image here.
-
 ## Prerequisites
 - Python 3.x
 - OpenCV library
@@ -90,6 +87,4 @@ Insert your output image here.
 - Occupied spaces are shown in **red**.  
 - Live count of available spaces is displayed on the frame.
 
-## License
-This project is licensed under the MIT License.
 
