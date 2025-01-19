@@ -16,8 +16,8 @@ This project is a parking space detection system that dynamically identifies fre
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ParkingSpaceDetection.git
-   cd ParkingSpaceDetection
+   git https://github.com/Ruban-7/Car_Parking_Count.git
+   cd Car_Parking_Count
    ```
 2. Install the required libraries:
    ```bash
