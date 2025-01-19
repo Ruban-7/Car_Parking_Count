@@ -8,7 +8,7 @@ This project is a parking space detection system that dynamically identifies fre
 - Displays the count of available parking spaces on the video frame.
 
 ## Prerequisites
-- Python 3.x
+- Python 
 - OpenCV library
 - cvzone library
 - NumPy
